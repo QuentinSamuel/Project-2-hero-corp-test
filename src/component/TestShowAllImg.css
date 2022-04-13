@@ -1,0 +1,24 @@
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+}
+#intelligence::-moz-progress-bar {
+  background-color: blue;
+}
+#strength::-moz-progress-bar {
+  background-color: green;
+}
+#speed::-moz-progress-bar {
+  background-color: yellow;
+}
+#durability::-moz-progress-bar {
+  background-color: purple;
+}
+#power::-moz-progress-bar {
+  background-color: red;
+}
+#combat::-moz-progress-bar {
+  background-color: orange;
+}
